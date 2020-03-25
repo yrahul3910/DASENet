@@ -8,12 +8,12 @@ Yongseok Lee, Suin Lee, Chan-Gun Lee, Ikjun Yeom and Honguk Woo, **"Continual Pr
 
 ## Requirements
 - python3
+- nltk
 - tensorflow-gpu 1.14.0
 - keras 2.2.4
 - scikit-learn 0.21.3
 - numpy 1.16.4
 - pandas 0.25.1
-- nltk
 - gensim Word2vec
 
 
