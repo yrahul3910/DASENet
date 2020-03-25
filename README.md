@@ -3,7 +3,7 @@ This is an official implementation of the model described in:
 
 Yongseok Lee, Suin Lee, Chan-Gun Lee, Ikjun Yeom and Honguk Woo, "Continual Prediction of Bug-Fix Time Using Deep Learning-Based Activity Stream Embedding" [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955829)
 
-<p align="center"><img src="https://github.com/dooinee/DASENet/blob/master/model.PNG" width="300" height="600"></p>
+<p align="center"><img src="https://github.com/dooinee/DASENet/blob/master/model.PNG" width="300" height="700"></p>
 
 
 ## Requirements
