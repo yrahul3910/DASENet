@@ -3,7 +3,7 @@ This is an official implementation of the model described in:
 
 Yongseok Lee, Suin Lee, Chan-Gun Lee, Ikjun Yeom and Honguk Woo, "Continual Prediction of Bug-Fix Time Using Deep Learning-Based Activity Stream Embedding" [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955829)
 
-<img src="https://github.com/dooinee/DASENet/blob/master/model.PNG" width="300" height="800"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/dooinee/DASENet/blob/master/model.PNG" width="300" height="800"/>
 
 
 ## Requirements
@@ -19,8 +19,8 @@ Yongseok Lee, Suin Lee, Chan-Gun Lee, Ikjun Yeom and Honguk Woo, "Continual Pred
 
 ## Dataset
 
-#### Download our preprocessed dataset with following a google drive link (compressed: 11G, extracted ??GB)
-https://drive.google.com/open?id=1nuBghuV_FKAyKTtpIVKp6OJset8PB3eq
+#### Download our preprocessed dataset with following link 
+https://github.com/mkris0714/Bug-Related-Activity-Logs
 
 - `input_data/projects/{hadoop-code.json, elasticsearch-code.json, springframework-code.json}`
 
