@@ -41,18 +41,3 @@ https://github.com/mkris0714/Bug-Related-Activity-Logs
 
 ## Description
 
-There are three models in our experience, 
-- The model using **Text-based embedding (word2vec)**
-- The model using **Path-based embedding (code2seq)**
-- The model using **Merged embedding (word2vec + code2seq)**
-
-
-`main_word2vec.ipynb`
-contains a-RNN, CNN using Text-based embedding.
-
-`main_mergeNet.ipynb`
-contains a-RNN, CNN using only Path-based embedding and Merged embedding implementation is also here. 
-(Cause code2seq has complicated preprocessing steps, the implementation of both models are in the same file.)
-
-
-Although the results of visualization is not in the paper, I was tried to interpretation of the trained model by visualizing attention score over source code texts with Text-based embedding in `visualize_attention.ipynb`. You can check the results in `tex_file/` directory along each class as latex or pdf file.  
